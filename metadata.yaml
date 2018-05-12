@@ -1,0 +1,33 @@
+_repo: Masterpieces-of-Mystery-Vol.-1--of-4-Ghost-Stories_27722
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: French, Joseph Lewis
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '8001'
+    url: http://www.gutenberg.org/2009/agents/8001
+description: ''
+gutenberg_issued: '2009-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27722'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PN'
+- !lcsh 'Ghost stories'
+- !lcsh 'Detective and mystery stories'
+tableOfContents: "The Listener / Algernon Blackwood\r\nNumber 13 / Montague Rhodes\
+  \ James\r\nJoseph: A Story / Katherine Rickford\r\nThe Horla / Guy de Maupassant\r\
+  \nThe Beast with Five Fingers / William F. Harvey\r\nSister Maddelena / Ralph Adams\
+  \ Cram\r\nThrawn Janet / Robert Louis Stevenson\r\nThe Yellow Cat / Wilbur Daniel\
+  \ Steele\r\nLetter to Sura / Pliny the Younger."
+title: 'Masterpieces of Mystery in Four Volumes: Ghost Stories'
+url: http://www.gutenberg.org/ebooks/27722
